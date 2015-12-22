@@ -1,7 +1,9 @@
-:book: Best Android Gists
+:books: Best Android Gists
 =================
 
 Find best Android Gists
+
+> You can suggest android gist creating a new issue! :+1:
 
 List Gists
 -----
