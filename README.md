@@ -14,6 +14,7 @@ List Gists
 * [Drag and Swipe with RecyclerView](https://gist.github.com/iPaulPro/2216ea5e14818056cfcc)
 * [EventBus Introduction](https://gist.github.com/lopspower/c7f05a12f9de4c036c6d)
 * [Material Animations](https://gist.github.com/lopspower/1a0b4e0c50d90fbf2379)
+* [Proguard Configuration](https://gist.github.com/lopspower/c12ba6ea69b7b78d4482)
 * [Publish AAR to jCenter and Maven Central](https://gist.github.com/lopspower/6f62fe1492726d848d6d)
 * [Retrofit Introduction](https://gist.github.com/lopspower/004f9295966ab5cb6ef6)
 * [Simple Sectioned RecyclerViewAdapter](https://gist.github.com/gabrielemariotti/4c189fb1124df4556058)
