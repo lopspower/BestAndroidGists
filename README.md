@@ -13,6 +13,7 @@ List Gists
 * <a target="_blank" href="https://gist.github.com/lopspower/01aa324dae5875f27cf9">Android M Permissions</a>
 * <a target="_blank" href="https://gist.github.com/lopspower/76421751b21594c69eb2">All Android Directory Path</a>
 * <a target="_blank" href="https://gist.github.com/lopspower/3e93e09f59d15d238908">Connection Utils</a>
+* <a target="_blank" href="https://gist.github.com/lopspower/7adbcde1d677c9d2f526">Difference between -nodpi and -anydpi</a>
 * <a target="_blank" href="https://gist.github.com/iPaulPro/2216ea5e14818056cfcc">Drag and Swipe with RecyclerView</a>
 * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
 * <a target="_blank" href="https://gist.github.com/lopspower/1a0b4e0c50d90fbf2379">Material Animations</a>
