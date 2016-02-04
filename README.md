@@ -33,6 +33,7 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/dec2592872f8df65a26c">SharedPreferences management</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/9524cd7028fa5d813414">Localisation Information</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/6e20680305ddfcb11e1e">Force Hide Keyboard</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/1048b4621c92631ba670">Add JAVA 1.8 with Retrolambda</a>
 
 About Gist
 -----
