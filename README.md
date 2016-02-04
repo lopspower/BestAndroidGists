@@ -23,6 +23,7 @@ List Gists
 3. Library Introduction
   * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/004f9295966ab5cb6ef6">Retrofit Introduction</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/1048b4621c92631ba670">Add JAVA 1.8 with Retrolambda</a>
 
 4. Utils
   * <a target="_blank" href="https://gist.github.com/lopspower/3e93e09f59d15d238908">Connection Utils</a>
@@ -33,7 +34,6 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/dec2592872f8df65a26c">SharedPreferences management</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/9524cd7028fa5d813414">Localisation Information</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/6e20680305ddfcb11e1e">Force Hide Keyboard</a>
-  * <a target="_blank" href="https://gist.github.com/lopspower/1048b4621c92631ba670">Add JAVA 1.8 with Retrolambda</a>
 
 About Gist
 -----
