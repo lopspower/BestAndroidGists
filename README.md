@@ -3,25 +3,36 @@
 
 Find best Android Gists
 
-> You can suggest android gist creating a new issue! :+1:
+> You can suggest your Android Gists, create a new issue! :+1:
 
 List Gists
 -----
 
-* <a target="_blank" href="https://gist.github.com/lopspower/c65f28ee504763bd0b4a">Analyze & Manage Memory on Android Like a Boss</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/9d37377f063dd26bf1eb">Android Material Design BaseArchi</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/01aa324dae5875f27cf9">Android M Permissions</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/76421751b21594c69eb2">All Android Directory Path</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/3e93e09f59d15d238908">Connection Utils</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/7adbcde1d677c9d2f526">Difference between -nodpi and -anydpi</a>
-* <a target="_blank" href="https://gist.github.com/iPaulPro/2216ea5e14818056cfcc">Drag and Swipe with RecyclerView</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/1a0b4e0c50d90fbf2379">Material Animations</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/c12ba6ea69b7b78d4482">Proguard Configuration</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/6f62fe1492726d848d6d">Publish AAR to jCenter and Maven Central</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/004f9295966ab5cb6ef6">Retrofit Introduction</a>
-* <a target="_blank" href="https://gist.github.com/gabrielemariotti/4c189fb1124df4556058">Simple Sectioned RecyclerViewAdapter</a>
-* <a target="_blank" href="https://gist.github.com/lopspower/e02376c656c1afed2cf9">Testing activity in Android Studio</a>
+1. Documentations
+  * <a target="_blank" href="https://gist.github.com/lopspower/c65f28ee504763bd0b4a">Analyze & Manage Memory on Android Like a Boss</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/6f62fe1492726d848d6d">Publish AAR to jCenter and Maven Central</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/1a0b4e0c50d90fbf2379">Material Animations</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/c12ba6ea69b7b78d4482">Proguard Configuration</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/e02376c656c1afed2cf9">Testing activity in Android Studio</a>
+
+2. Rules
+  * <a target="_blank" href="https://gist.github.com/lopspower/76421751b21594c69eb2">All Android Directory Path</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/7adbcde1d677c9d2f526">Difference between -nodpi and -anydpi</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/9d37377f063dd26bf1eb">Android Material Design BaseArchi</a>
+
+3. Library Introduction
+  * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/004f9295966ab5cb6ef6">Retrofit Introduction</a>
+
+4. Utils
+  * <a target="_blank" href="https://gist.github.com/lopspower/3e93e09f59d15d238908">Connection Utils</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/01aa324dae5875f27cf9">Android M Permissions</a>
+  * <a target="_blank" href="https://gist.github.com/iPaulPro/2216ea5e14818056cfcc">Drag and Swipe with RecyclerView</a>
+  * <a target="_blank" href="https://gist.github.com/gabrielemariotti/4c189fb1124df4556058">Simple Sectioned RecyclerViewAdapter</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/f8ebb17178ccd58aefe4">Notification with overview</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/dec2592872f8df65a26c">SharedPreferences management</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/9524cd7028fa5d813414">Localisation Information</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/6e20680305ddfcb11e1e">Force Hide Keyboard</a>
 
 About Gist
 -----
