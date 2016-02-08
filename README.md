@@ -35,6 +35,8 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/9524cd7028fa5d813414">Localisation Information</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/6e20680305ddfcb11e1e">Force Hide Keyboard</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/5d03dab81abf6c35517e">Dynamic folder for specific build variant</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/5b3bce48135c888bc603">Increase Android Studio memory</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/e318ceed80738674f371">Show Memory Android Studio</a>
 
 About Gist
 -----
