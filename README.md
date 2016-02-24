@@ -19,6 +19,7 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/76421751b21594c69eb2">All Android Directory Path</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/7adbcde1d677c9d2f526">Difference between -nodpi and -anydpi</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/9d37377f063dd26bf1eb">Android Material Design BaseArchi</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/b6f80881cb290de38c75">Android Tools Attributes</a>
 
 3. Library Introduction
   * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
