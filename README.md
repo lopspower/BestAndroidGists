@@ -38,6 +38,7 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/5d03dab81abf6c35517e">Dynamic folder for specific build variant</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/5b3bce48135c888bc603">Increase Android Studio memory</a> :new:
   * <a target="_blank" href="https://gist.github.com/lopspower/e318ceed80738674f371">Show Memory Android Studio</a> :new:
+  * <a target="_blank" href="https://gist.github.com/lopspower/b7259ba71a17ca29e0c6">Test GCM Push</a> :new:
 
 About Gist
 -----
