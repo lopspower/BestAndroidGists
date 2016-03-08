@@ -21,6 +21,7 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/9d37377f063dd26bf1eb">Android Material Design BaseArchi</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/b6f80881cb290de38c75">Android Tools Attributes</a> :new:
   * <a target="_blank" href="https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4">Hexadecimal color code for transparency</a> :new:
+  * <a target="_blank" href="https://gist.github.com/lopspower/ff2fec6c16991c072495">All InputType for EditText</a> :new:
 
 **3. Library Introduction**
   * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
