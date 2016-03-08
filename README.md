@@ -20,6 +20,7 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/7adbcde1d677c9d2f526">Difference between -nodpi and -anydpi</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/9d37377f063dd26bf1eb">Android Material Design BaseArchi</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/b6f80881cb290de38c75">Android Tools Attributes</a> :new:
+  * <a target="_blank" href="https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4">Hexadecimal color code for transparency</a> :new:
 
 **3. Library Introduction**
   * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
@@ -39,7 +40,6 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/5b3bce48135c888bc603">Increase Android Studio memory</a> :new:
   * <a target="_blank" href="https://gist.github.com/lopspower/e318ceed80738674f371">Show Memory Android Studio</a> :new:
   * <a target="_blank" href="https://gist.github.com/lopspower/b7259ba71a17ca29e0c6">Test GCM Push</a> :new:
-  * <a target="_blank" href="https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4">Hexadecimal color code for transparency</a> :new:
 
 About Gist
 -----
