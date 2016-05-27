@@ -19,9 +19,10 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/76421751b21594c69eb2">All Android Directory Path</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/7adbcde1d677c9d2f526">Difference between -nodpi and -anydpi</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/9d37377f063dd26bf1eb">Android Material Design BaseArchi</a>
-  * <a target="_blank" href="https://gist.github.com/lopspower/b6f80881cb290de38c75">Android Tools Attributes</a> :new:
-  * <a target="_blank" href="https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4">Hexadecimal color code for transparency</a> :new:
+  * <a target="_blank" href="https://gist.github.com/lopspower/b6f80881cb290de38c75">Android Tools Attributes</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4">Hexadecimal color code for transparency</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/ff2fec6c16991c072495">All InputType for EditText</a> :new:
+  * <a target="_blank" href="https://gist.github.com/lopspower/ce384ef98f3d79e61ec78dc9e512644f">Android Supported Language</a> :new:
 
 **3. Library Introduction**
   * <a target="_blank" href="https://gist.github.com/lopspower/c7f05a12f9de4c036c6d">EventBus Introduction</a>
@@ -38,9 +39,9 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/lopspower/9524cd7028fa5d813414">Localisation Information</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/6e20680305ddfcb11e1e">Force Hide Keyboard</a>
   * <a target="_blank" href="https://gist.github.com/lopspower/5d03dab81abf6c35517e">Dynamic folder for specific build variant</a>
-  * <a target="_blank" href="https://gist.github.com/lopspower/5b3bce48135c888bc603">Increase Android Studio memory</a> :new:
-  * <a target="_blank" href="https://gist.github.com/lopspower/e318ceed80738674f371">Show Memory Android Studio</a> :new:
-  * <a target="_blank" href="https://gist.github.com/lopspower/b7259ba71a17ca29e0c6">Test GCM Push</a> :new:
+  * <a target="_blank" href="https://gist.github.com/lopspower/5b3bce48135c888bc603">Increase Android Studio memory</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/e318ceed80738674f371">Show Memory Android Studio</a>
+  * <a target="_blank" href="https://gist.github.com/lopspower/b7259ba71a17ca29e0c6">Test GCM Push</a>
   * <a target="_blank" href="https://gist.github.com/gabrielemariotti/ad6672902464ee2392d0">Centralize the support libraries dependencies in gradle</a> :new:
 
 About Gist
