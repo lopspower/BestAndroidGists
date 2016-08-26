@@ -45,7 +45,6 @@ List Gists
   * <a target="_blank" href="https://gist.github.com/gabrielemariotti/ad6672902464ee2392d0">Centralize the support libraries dependencies in gradle</a> :new:
   * <a target="_blank" href="https://gist.github.com/lopspower/a67fa7b9b71494f6590f7412462b63ef">Android studio format code auto break line</a> :new:
   * <a target="_blank" href="https://gist.github.com/lopspower/5e99302573bd4f9b403002d07b3ccddd">Custom Logcat Color</a> :new:
-  * <a target="_blank" href="https://gist.github.com/lopspower/64ac6170e6663d37a197a52069f111ad">Add Margin Start and/or End in your RecyclerView</a> :new:
 
 About Gist
 -----
